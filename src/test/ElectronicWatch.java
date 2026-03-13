@@ -1,10 +1,9 @@
-package main.java.com.smnew.project;
+package test;
 
 import java.util.Scanner;
 
 public class ElectronicWatch {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         int totalSeconds = scanner.nextInt();
 
