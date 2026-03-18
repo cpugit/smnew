@@ -16,7 +16,7 @@ public class GoDutch {
         } else if (friends <= 0) {
             System.out.println("Number of friends cannot be negative or zero");
         } else {
-            int partToPay = (int)Math.ceil((totalAmount / friends) * 1.1);
+            int partToPay = (int)((totalAmount / friends) * 1.1);
             System.out.println(partToPay);
         }
     }
