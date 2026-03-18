@@ -23,7 +23,6 @@ public class HelloStrangers {
                 System.out.println("Hello, " + s);
             }
         }
-
         scanner.close();
     }
 }

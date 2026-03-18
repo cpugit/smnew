@@ -1,4 +1,4 @@
-package test;
+package com.smnew;
 
 import java.util.Scanner;
 
