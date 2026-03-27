@@ -1,4 +1,4 @@
-package com.smnew;
+package com.smnew.loops;
 
 import java.util.Scanner;
 

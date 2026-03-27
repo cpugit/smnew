@@ -1,4 +1,4 @@
-package com.smnew;
+package com.smnew.arrays;
 
 public class SumOfEvenNumbers {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.smnew;
+package com.smnew.arrays;
 
 import java.util.Arrays;
 

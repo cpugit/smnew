@@ -1,9 +1,7 @@
-package com.smnew;
+package com.smnew.loops;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import static java.lang.Math.sqrt;
 
 public class QuadraticEquation {
     public static void main(String[] args) {

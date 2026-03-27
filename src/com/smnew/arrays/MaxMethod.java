@@ -1,4 +1,4 @@
-package com.smnew;
+package com.smnew.arrays;
 
 public class MaxMethod {
     public static int max(int[] values) {
