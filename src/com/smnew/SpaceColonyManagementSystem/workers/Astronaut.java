@@ -1,6 +1,6 @@
-package com.smnew.SpaceColonyManagementSystem;
+package com.smnew.SpaceColonyManagementSystem.workers;
 
-public class Astronaut extends Entity{
+public class Astronaut extends Worker {
 
     public Astronaut(String name){
         super.name = name;
